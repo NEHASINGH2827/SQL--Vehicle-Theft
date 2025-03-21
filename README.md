@@ -28,3 +28,5 @@ Location with highest stolen vehicle
 Most commonly stolen vehicle (in last 6 months)
 Most common color
 Day per location with highest steal
+
+# Also using the visulalization tool PowerBI 
